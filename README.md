@@ -4,4 +4,4 @@
 - 🌱 Learning and improving daily
 - ⚡ 2024 Goal: Sharpen knowledge through consistent practice
 
-<img src={"https://www.codewars.com/users/KosarMyatyi/badges/large"}/>
+![CodeWars Badge](https://www.codewars.com/users/KosarMyatyi/badges/large)
